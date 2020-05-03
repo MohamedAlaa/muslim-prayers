@@ -1,0 +1,18 @@
+{
+    "title": "Gatsby Español",
+    "description": "Kick off your next, great Gatsby project with this default-starter-intl. This barebones starter ships with the main Gatsby configuration files you might need.",
+    "author": "@MohammedAlaa",
+    "hello": "¡Hola Mundo!",
+    "welcome": "Bienvenido al nuevo sitio.",
+    "title_page2": "Pagina dos",
+    "hello_page2": "Hola desde la segunda pagina",
+    "go_page2": "Visita a la pagina 2",
+    "build": "Now go build something great.",
+    "welcome_page2": "Welcome to page 2",
+    "go_back": "Ve a la pagina principal",
+    "notfound": {
+        "header": "¡No Encontrado!",
+        "description": "You just hit a route that doesn't exist... the sadness."
+    },
+    "built_with": "Hecho con"
+}
