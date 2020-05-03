@@ -95,3 +95,5 @@ public
 
 # TernJS port file
 .tern-port
+
+.now
