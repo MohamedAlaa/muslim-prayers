@@ -29,7 +29,6 @@ module.exports = {
                 short_name: `Pray`,
                 description: `Learn to pray the 5 daily prayers in an easy and amusing way.`,
                 lang: `en`,
-                display: `standalone`,
                 start_url: `/`,
                 background_color: `#663399`,
                 theme_color: `#663399`,
